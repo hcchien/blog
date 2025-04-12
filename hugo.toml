@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
-languageCode = 'zh-tw'
-title = 'Web3 for all 讀書會'
-theme = 'ananke'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = ["newsroom"]
