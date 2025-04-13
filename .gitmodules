@@ -4,3 +4,12 @@
 [submodule "themes/newsroom"]
 	path = themes/newsroom
 	url = https://github.com/onweru/newsroom.git
+[submodule "themes/hugo-news"]
+	path = themes/hugo-news
+	url = https://github.com/professionalaf/hugo-news
+[submodule "themes/themes/hugo-brewm"]
+	path = themes/themes/hugo-brewm
+	url = https://github.com/foxihd/hugo-brewm
+[submodule "themes/lightbi-hugo"]
+	path = themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo

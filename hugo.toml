@@ -1,4 +1,4 @@
 baseURL = 'https://www.hcchien.art/'
 languageCode = 'zh-TW'
 title = '簡信昌的攝影思考'
-theme = ["newsroom"]
+theme = ["lightbi-hugo"]
